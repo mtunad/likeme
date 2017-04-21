@@ -1,0 +1,25 @@
+.likeme-container{
+	display: block;
+	padding: 1em 0;
+}
+
+.likeme-container span {
+	cursor: pointer;
+}
+
+.likeme-container span:before {
+	content: attr(data-text);
+}
+
+.likeme-container span:hover {
+	color: black;
+}
+
+.likeme-container .likeme-up {
+	color: white;
+	padding: 0.5em;
+}
+
+.likeme-container .likeme-up {
+	background: #a7b730;
+}
