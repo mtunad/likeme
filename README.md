@@ -1,4 +1,9 @@
-# Görevler:
+# likeme - just another wordpress plugin
+
+![](https://cdn.pbrd.co/images/7GPWf0kyN.png)
+![](https://cdn.pbrd.co/images/7GS6hM2OD.png)
+
+## Görevler:
 
 - [x] Her yazıda like düğmesi.
 - [x] Sitenin kendi içinde saklanacak.
@@ -21,4 +26,4 @@
 - [x] Uygulamanın sıfır bir Wordpress üzerine nasıl kullanılacağı ile ilgili
       markdown ile bir belgeyi yazmanızı istiyoruz.
 - [x] Bize uygulamayı yazarken yaptığınız çeşitli teknik seçimleri /
-      kabulleri ve nedenlerini gerekçelendiren bir yazı yazmanızı istiyoruz. 
+      kabulleri ve nedenlerini gerekçelendiren bir yazı yazmanızı istiyoruz.

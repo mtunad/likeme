@@ -1,10 +1,10 @@
-.likeme-container{
+.likeme-container {
 	display: block;
 	padding: 1em 0;
 }
 
 .likeme-container span {
-	cursor: pointer;
+	cursor: hand;
 }
 
 .likeme-container span:before {

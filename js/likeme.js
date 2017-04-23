@@ -1,4 +1,4 @@
-jQuery(document).ready(function() {
+jQuery(document).ready(function() { 
   jQuery( ".likeme-container" ).each(function( index ) {
 
     var content_id = jQuery(this).data('content-id');
